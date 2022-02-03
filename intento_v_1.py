@@ -15,3 +15,5 @@ def promedio_std(lista):
     return ("el promedio de los numeros dados es:",promedio," la desviacion estandar de los numeros dados es:",desv)
 print(promedio_std(lista))
 input("")
+
+print("primer cambio")
